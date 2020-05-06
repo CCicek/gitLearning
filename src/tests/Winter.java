@@ -3,7 +3,7 @@ package tests;
 public class Winter {
 
     public static void main(String[] args) {
-        System.out.println("This is winter time...");
+        System.out.println("Winter is coming...");
     }
 
 }
